@@ -1,0 +1,27 @@
+.nav-bar {
+    border-bottom: 1px solid #ddd;
+    height: 75px;
+    width: 100%;
+    display: flex; /* Gunakan flexbox untuk menyusun elemen dalam baris */
+  }
+  
+  .products-link {
+    text-decoration: none;
+    display: flex; /* Gunakan flexbox untuk menyusun elemen dalam baris */
+    align-items: center; /* Menyusun elemen secara vertikal di tengah */
+    color: #41B883;
+    margin-left: 4rem;
+  }
+  
+  .header-link {
+    margin: 0;
+    font-size: 30px;
+    font-weight: 700;
+  }
+  
+  .cart-link {
+    text-decoration: none;
+    color: #41B883;
+    width: 80px;
+  }
+  
